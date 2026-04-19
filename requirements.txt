@@ -1,0 +1,7 @@
+torch
+torchvision
+networkx
+numpy
+pandas
+openpyxl
+matplotlib
